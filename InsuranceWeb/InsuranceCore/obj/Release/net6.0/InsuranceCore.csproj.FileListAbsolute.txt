@@ -1,0 +1,14 @@
+C:\Users\elias\source\repos\Elias\InsuranceWeb\InsuranceCore\bin\Release\net6.0\InsuranceCore.deps.json
+C:\Users\elias\source\repos\Elias\InsuranceWeb\InsuranceCore\bin\Release\net6.0\InsuranceCore.runtimeconfig.json
+C:\Users\elias\source\repos\Elias\InsuranceWeb\InsuranceCore\bin\Release\net6.0\InsuranceCore.dll
+C:\Users\elias\source\repos\Elias\InsuranceWeb\InsuranceCore\bin\Release\net6.0\InsuranceCore.pdb
+C:\Users\elias\source\repos\Elias\InsuranceWeb\InsuranceCore\obj\Release\net6.0\InsuranceCore.csproj.AssemblyReference.cache
+C:\Users\elias\source\repos\Elias\InsuranceWeb\InsuranceCore\obj\Release\net6.0\InsuranceCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\source\repos\Elias\InsuranceWeb\InsuranceCore\obj\Release\net6.0\InsuranceCore.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\Elias\InsuranceWeb\InsuranceCore\obj\Release\net6.0\InsuranceCore.AssemblyInfo.cs
+C:\Users\elias\source\repos\Elias\InsuranceWeb\InsuranceCore\obj\Release\net6.0\InsuranceCore.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\Elias\InsuranceWeb\InsuranceCore\obj\Release\net6.0\InsuranceCore.dll
+C:\Users\elias\source\repos\Elias\InsuranceWeb\InsuranceCore\obj\Release\net6.0\refint\InsuranceCore.dll
+C:\Users\elias\source\repos\Elias\InsuranceWeb\InsuranceCore\obj\Release\net6.0\InsuranceCore.pdb
+C:\Users\elias\source\repos\Elias\InsuranceWeb\InsuranceCore\obj\Release\net6.0\InsuranceCore.genruntimeconfig.cache
+C:\Users\elias\source\repos\Elias\InsuranceWeb\InsuranceCore\obj\Release\net6.0\ref\InsuranceCore.dll
